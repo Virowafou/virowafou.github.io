@@ -1,3 +1,3 @@
 # virowafou.github.io
-Virowafou, est un site web, comme son nom le dit, il s'appelle virowafou.
+Virowafou, is Virowafou
 Herbergé pars github.
